@@ -1,5 +1,2 @@
 # resume
-My resume
-# Resume
-# Resume
-# Resume
+My resume for SDE
